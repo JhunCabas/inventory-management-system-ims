@@ -1,1 +1,33 @@
 = Developer page =
+
+
+This project has been designed by using the CSS templates. This is help to design our interfaces and also help Adobe Dreamweaver CS5.5 and HTML 5.  PHP have been used to develop the coding in our system. SQL server is used to create database as the back end for this system.
+
+
+*Tables*
+
+Our database contain eleven tables for our system.
+
+Users:
+
+This table consist some attributes such as user id, first name, last name, email, username, password and user level. These details help to create an account and login the system.
+
+Lab equipments (le), Office equipments (oe), Furniture (fu):
+
+This table consist some attributes such as Articles, Identification number, folio number, name of supplier, date, unit price, officer in charge and remarks. le table helps to lab equipments details, . oe table helps to office equipments details and . fu table helps to furniture details.
+
+Consumable (cons), Stationary (sta), Maintenance (mai):
+
+This table consist some attributes such as id, item, number, action, date and balance. Cons table helps to consumable details, sta table helps to stationary details and mai table helps to maintenance details.
+
+Loan issue:
+
+This table consist some attributes such as loan id, article, id, issued date, issued by, received by, received department, status, return date and remarks. This table helps to add, edit and show the issued items.
+
+Loan taken:
+
+This table consist some attributes such as loan id, article, id, issued department, received date, received by, status, return date and remarks. This table helps to add, edit and show the taken items.
+
+Remove:
+
+This table consist some attributes such as id number, article, reason, date and authorized by. These details help to remove, view and show the individual articles.
