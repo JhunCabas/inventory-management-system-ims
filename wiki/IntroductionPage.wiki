@@ -1,3 +1,8 @@
-
-
 = Introduction =
+
+
+Our project is Inventory Management System. Our project was prepared for our Computer science department. This system maintains the details of latest equipments, details of equipment use in lab, discard and repair equipment details and loan details. When new equipment enters our lab, we check that equipment is main (lab, office, furniture) equipments or other (consumable, stationary, maintenance) equipments.
+
+If that equipment is main, when we select that equipment in our system, automatically fill new identification number, new folio number and date. If that equipment is other, when we select that equipment and then select issued, automatically fill the increased balance or we select received, automatically fill the decreased balance in our system.
+
+We can search main and other equipments. If we search main equipment, we can see these (Articles, Identification number, folio number, name of supplier, date, unit price, officer in charge and remarks) details. If search other equipment, we can see these (article, date, quality, balance, action) details. We maintain two kinds of loan details those are loan issue and loan taken. We can add and edit details in both categories. We can see these (articles, identification number, status, return date, department) details in both categories.
