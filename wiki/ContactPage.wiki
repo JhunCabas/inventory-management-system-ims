@@ -2,9 +2,13 @@
 
 
 This project done by group4.
+
 Our group contains three members:
+
 Mr. Yogarajah  Kesavan               2009/SP/014
+
 Mr.Maheswaran  Nitharas		     2009/SP/042
+
 Miss. Jeyapratheepa Jeyanantharajah  2009/CSC/009
 
 Blog :  www.inventorymanagementsystemims.blogspot.com
