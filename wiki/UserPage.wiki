@@ -1,3 +1,56 @@
-
-
 = User Page =
+
+ 
+login page, this helps to login our system.
+
+ 
+sign up interface , this helps to create a new account.
+
+ 
+about us interface ,  It helps to know our system.
+
+ 
+main interface, 
+
+ 
+change password interface, it helps to change the password.
+
+ 
+add inventory interface.
+
+ 
+Lab equipment interface, it helps to add the new equipment details to the database table. 
+Other interfaces office equipment and furniture do the same work. 
+
+ 
+consumable interface, it helps to add the new equipment details to the database table. 
+Other interfaces maintenance and stationary do the same work. 
+
+ 
+Inventory search interface. It contains main equipment search and other equipment search.
+
+ 
+main equipment search interface. If we select category and identification number, we can see the full details of that item.
+
+ 
+
+view all interface. It shows all details of main equipment and other equipment.
+
+ 
+other equipment search interface. If we select category and article, we can see the full details of that item.
+
+ 
+Loan interface. It contains loan issue and loan taken.
+
+ 
+loan issue interface. It helps to add, edit and view the details.
+ 
+loan taken interface. It helps to add, edit and view the details.
+
+ 
+user management interface. It helps to edit, delete, view and add user.
+
+ 
+remove inventory interface. It helps to remove the item and show the individual item.
+
+ 
