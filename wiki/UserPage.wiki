@@ -1,4 +1,4 @@
-= *User Page* =
+= *_User Page_* =
 
  
 = Software Requirements =
@@ -158,8 +158,6 @@ This is our remove inventory interface. It helps to remove the item and show the
 This is our remove inventory added interface. It helps to remove the item.
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://2.bp.blogspot.com/-u7RhqO-djYk/URPoWT77mFI/AAAAAAAAAR4/xPgKNsrOvTw/s1600/27.jpg" imageanchor="1" style="margin-left:1em; margin-right:1em"><img border="0" height="245" width="400" src="http://2.bp.blogspot.com/-u7RhqO-djYk/URPoWT77mFI/AAAAAAAAAR4/xPgKNsrOvTw/s400/27.jpg" /></a></div>
-
-
 
 
 
