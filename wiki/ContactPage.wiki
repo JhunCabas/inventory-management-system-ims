@@ -1,22 +1,28 @@
-= Contact page =
+= *_Contact page_* =
 
 
-This project done by group4.
+= Contact Details =
 
-Our group contains three members:
 
-Mr. Yogarajah  Kesavan               2009/SP/014
+The project entitled Inventory Management System is submitted  fulfillment of Course unit CSC301GC2 in Computer Science for the Degree of Bachelor of Science, 2011 at the University of Jaffna by group-4.
 
-Mr.Maheswaran  Nitharsan		     2009/SP/042
+Our project advisor : 
 
-Miss. Jeyapratheepa Jeyanantharajah  2009/CSC/009
+Mr. K. Sarveswaran ( iamsarves@gmail.com ) 
 
+	
+Our group contains three members :
+
+Mr. Yogarajah  Kesavan ( ykesan@gmail.com ) 				2009/SP/014
+
+Mr.Maheswaran  Nitharsan ( mnitharsan@yahoo.com ) 			2009/SP/042
+
+Miss. Jeyapratheepa Jeyanantharajah ( jeya_mathu@yahoo.com ) 	2009/CSC/009
 
 
 Blog :  www.inventorymanagementsystemims.blogspot.com
 
-
-
 Email : inventorymsystem@gmail.com
 
 Google code : https://code.google.com/p/inventory-management-system-ims/
+
