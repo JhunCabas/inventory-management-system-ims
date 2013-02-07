@@ -10,31 +10,31 @@ This project has been designed by using the CSS templates. This is help to desig
 
 = Tables =
 
-Our database contain eleven tables for our system.
+Our database contains eleven tables for our system.
 
 * Users : *
 
-This table consists of  some attributes such as user id, first name, last name, email, username, password and user level. These details help to create an account and login the system.
+This table consists of some attributes such as user id, first name, last name, email, username, password and user level. These details help to create an account and login the system.
 
 * Lab equipments (le), Office equipments (oe), Furniture (fu) : *
 
-This table consists of  some attributes such as Articles, Identification number, folio number, name of supplier, date, unit price, officer in charge and remarks. le table helps to lab equipments details, . oe table helps to office equipments details and . fu table helps to furniture details.
+This table consists of some attributes such as Articles, Identification number, folio number, name of supplier, date, unit price, officer in charge and remarks. le table uses to lab equipments details,  oe table uses to office equipments details and  fu table uses to furniture details.
 
 * Consumable (cons), Stationary (sta), Maintenance (mai) : *
 
-This table consists of  some attributes such as id, item, number, action, date and balance. Cons table helps to consumable details, sta table helps to stationary details and mai table helps to maintenance details.
+This table consists of some attributes such as id, item, number, action, date and balance. Cons table uses to consumable details, sta table uses to stationary details and mai table uses to maintenance details.
 
 * Loan issue : *
 
-This table consists of  some attributes such as loan id, article, id, issued date, issued by, received by, received department, status, return date and remarks. This table helps to add, edit and show the issued items.
+This table consists of some attributes such as loan id, article, id, issued date, issued by, received by, received department, status, return date and remarks. This table helps to add, edit and show the issued items.
 
 * Loan taken : *
 
-This table consists of  some attributes such as loan id, article, id, issued department, received date, received by, status, return date and remarks. This table helps to add, edit and show the taken items.
+This table consists of some attributes such as loan id, article, id, issued department, received date, received by, status, return date and remarks. This table helps to add, edit and show the taken items.
 
 * Remove : *
 
-This table consists of  some attributes such as id number, article, reason, date and authorized by. These details help to remove, view and show the individual articles.
+This table consists of some attributes such as id number, article, reason, date and authorized by. These details help to remove, view and show the individual articles.
 
 * Current Status : *
 
