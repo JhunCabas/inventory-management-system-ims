@@ -1,3 +1,7 @@
 *Welcome to the inventory-management-system wiki!*
 
 Inventory Management System was developed for anyone who needs a simple and easy way to keep track of their inventory.
+
+Nowadays each and every organization has a computerized system. These systems must be secure, efficient, and also economical. So, in this project we are trying to make inventory management system which will help employees to keep records in a systematic way, provide easy recovery of errors, have an overall end user high subjective satisfaction, produce report about the inventory and stock currently available in the department in automatic way and help them in decision making.
+
+From this application only the administrative level staff can read, insert, update and delete a record or details of inventory and users. Other staff only view the information about inventory.
