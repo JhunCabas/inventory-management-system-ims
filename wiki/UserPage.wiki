@@ -1,57 +1,45 @@
-= User Page =
+= *User Page* =
 
  
-login page, this helps to login our system.
+= Software Requirements =
 
- 
-sign up interface , this helps to create a new account.
+    * Apache
+    * MySQL
+    * PHP 5.3
 
- 
-about us interface ,  It helps to know our system.
 
- 
-main interface, 
+=Installation=
 
- 
-change password interface, it helps to change the password.
+  * Install XAMPP
+  * Access your phpMyAdmin web interface from XAMPP
+  * Place all the documents into the XAMPP "htdocs" folder (e.g. c:/xampp/htdocs/)
+  * Create a database called ims
+  * Select this database then click Import
+  * Browse to /ims.sql/ and click Go
+  * The database is now set up
+  * Edit the file config.php - This file contains your database login information and location.Edit these two lines to contain your database login and password
+    $user  = "root";
+    $password ="";
 
- 
-add inventory interface.
 
- 
-Lab equipment interface, it helps to add the new equipment details to the database table. 
-Other interfaces office equipment and furniture do the same work. 
+= Interfaces =
 
- 
-consumable interface, it helps to add the new equipment details to the database table. 
-Other interfaces maintenance and stationary do the same work. 
+=== Login : ===
+This is our login page, this helps to login our system.
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-Nh6RSxova24/URPUd9hveyI/AAAAAAAAAMg/o16fYzMW6UI/s1600/1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-Nh6RSxova24/URPUd9hveyI/AAAAAAAAAMg/o16fYzMW6UI/s400/1.jpg" height="374" width="400" /></a></div>
 
- 
-Inventory search interface. It contains main equipment search and other equipment search.
+== Sign Up : ==
+This is our sign up interface , this helps to create a new account.
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-3cxK8etwR8Q/URPUel48DyI/AAAAAAAAAMs/cbCYJFSy9U0/s1600/2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-3cxK8etwR8Q/URPUel48DyI/AAAAAAAAAMs/cbCYJFSy9U0/s400/2.jpg" height="301" width="400" /></a></div>
 
- 
-main equipment search interface. If we select category and identification number, we can see the full details of that item.
+== About us : ==
+This is our about us interface ,  It helps to know our system. 
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-33kDCFhyRW8/URPUfC7gioI/AAAAAAAAAM4/sxqoukNy5U8/s1600/29.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-33kDCFhyRW8/URPUfC7gioI/AAAAAAAAAM4/sxqoukNy5U8/s400/29.jpg" height="323" width="400" /></a></div>
 
- 
 
-view all interface. It shows all details of main equipment and other equipment.
 
- 
-other equipment search interface. If we select category and article, we can see the full details of that item.
 
- 
-Loan interface. It contains loan issue and loan taken.
 
- 
-loan issue interface. It helps to add, edit and view the details.
-
- 
-loan taken interface. It helps to add, edit and view the details.
-
- 
-user management interface. It helps to edit, delete, view and add user.
-
- 
-remove inventory interface. It helps to remove the item and show the individual item.
-
- 
