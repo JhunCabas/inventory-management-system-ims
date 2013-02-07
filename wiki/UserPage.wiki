@@ -44,6 +44,7 @@ Loan interface. It contains loan issue and loan taken.
 
  
 loan issue interface. It helps to add, edit and view the details.
+
  
 loan taken interface. It helps to add, edit and view the details.
 
