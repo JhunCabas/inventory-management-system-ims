@@ -20,9 +20,8 @@ Mr.Maheswaran  Nitharsan ( mnitharsan@yahoo.com ) 			2009/SP/042
 Miss. Jeyapratheepa Jeyanantharajah ( jeya_mathu@yahoo.com ) 	2009/CSC/009
 
 
-Blog :  www.inventorymanagementsystemims.blogspot.com
+Blog :   https://www.inventorymanagementsystemims.blogspot.com
 
 Email : inventorymsystem@gmail.com
 
 Google code : https://code.google.com/p/inventory-management-system-ims/
-
